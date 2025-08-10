@@ -1,0 +1,2 @@
+2025-08-08T00:15:19.499683,Normal,ML prediction failed: X has 3 features, but SimpleImputer is expecting 6 features as input.,{'water_level_percent': 0.09, 'float_sensor': 0, 'pump_state': 0}
+2025-08-08T00:17:17.545008,Normal,ML prediction failed: X has 3 features, but SimpleImputer is expecting 6 features as input.,{'water_level_percent': 0.09, 'float_sensor': 0, 'pump_state': 0}
